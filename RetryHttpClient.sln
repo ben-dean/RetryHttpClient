@@ -1,9 +1,9 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetryHttp", "RetryHttp\RetryHttp.csproj", "{789B464C-E2D2-4FC9-96EB-8E0C124C781F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetryHttpClient", "RetryHttp\RetryHttpClient.csproj", "{789B464C-E2D2-4FC9-96EB-8E0C124C781F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetryHttp.Tests", "RetryHttp.Tests\RetryHttp.Tests.csproj", "{56597C0E-71CC-4160-9B99-047824D8D513}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetryHttpClient.Tests", "RetryHttp.Tests\RetryHttpClient.Tests.csproj", "{56597C0E-71CC-4160-9B99-047824D8D513}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
